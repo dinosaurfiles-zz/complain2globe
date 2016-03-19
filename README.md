@@ -1,8 +1,9 @@
 # complain2globe
 A [Twitter bot](https://twitter.com/complain2GLOBE) that tweets to @talk2GLOBE @enjoyGLOBE if download speed is below their promised 80% service reliability.
 
-**Linux/*NIX only. Windows version will be available soon due to `speedtest-cli` compatibility**
+**Linux/*NIX only. Windows version will be available soon, bug due to `speedtest-cli` compatibility**
 
+Note: `internetCalculatedSpeed` is somewhat 80% of promised speed
 
 ## Visit https://twitter.com/complain2GLOBE Now!!
 
